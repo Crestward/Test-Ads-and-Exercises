@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     # Applications - don't copy
     'ads.apps.AdsConfig',
+    #'unesco.apps.UnescoConfig',
 ]
 
 # When we get to crispy forms :)
